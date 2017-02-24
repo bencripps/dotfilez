@@ -1,0 +1,11 @@
+[user]
+	name = benjamin cripps
+	email = me@benjamincripps.com
+[alias]
+	co = checkout
+	fixup = rebase -i HEAD~2
+	nb = checkout -b
+	pfl = push --force-with-lease
+	pr = pull --rebase
+	short = status -s
+	st = status
